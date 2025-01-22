@@ -16,30 +16,30 @@ The report also ranks countries by happiness levels and includes information on 
 ## Tools and Libraries 
 This project uses the following Python libraries:
 
--Pandas: For data manipulation and analysis.
--NumPy: For numerical computations.
--Matplotlib: For data visualization.
--Seaborn: For advanced visualizations.
+- Pandas: For data manipulation and analysis.
+- NumPy: For numerical computations.
+- Matplotlib: For data visualization.
+- Seaborn: For advanced visualizations.
 
 ## Dataset
 The dataset data.csv contains the following columns:
 
-*Country: Name of the country.
-*Region: Geographical region.
-*Happiness Score: Overall happiness score.
-*GDP per Capita
-*Healthy Years of Life Expectancy
-*Social Support
-*Trust
-*Freedom
-*Generosity
-*Dystopia
-*Job Satisfaction
+* Country: Name of the country.
+* Region: Geographical region.
+* Happiness Score: Overall happiness score.
+* GDP per Capita
+* Healthy Years of Life Expectancy
+* Social Support
+* Trust
+* Freedom
+* Generosity
+* Dystopia
+* Job Satisfaction
 
 ## Results
 The analysis will provide insights into:
 
--Global and regional happiness patterns.
--Factors contributing most to happiness.
--Job satisfaction trends and their relationship with happiness.
+- Global and regional happiness patterns.
+- Factors contributing most to happiness.
+- Job satisfaction trends and their relationship with happiness.
 
